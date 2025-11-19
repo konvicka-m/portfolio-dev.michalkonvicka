@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Eden",
+    "type": "folder",
+    "extension": null,
+    "children": [
+      {
+        "name": "LUFT_2025.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "LUFT_2025_detail.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "atlas_obalka.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "atlas_str_16_17.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "readme.md",
+        "type": "document",
+        "extension": ".md"
+      },
+      {
+        "name": "snimek_obrazovky_2025.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ekosystem_v1_0_0",
+    "type": "folder",
+    "extension": null,
+    "children": [
+      {
+        "name": "ekosystem-v1-0-0_GAFU_2022.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "ekosystem-v1-0-0_varsava_2022.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "nahravka-varsava-24-9-2022.mp3",
+        "type": "audio",
+        "extension": ".mp3"
+      },
+      {
+        "name": "readme.md",
+        "type": "document",
+        "extension": ".md"
+      },
+      {
+        "name": "snimek_obrazovky_2022-05-09.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      }
+    ]
+  },
+  {
+    "name": "Jak_nebeska_telesa_ovlivnuji_deni_na_zemi",
+    "type": "folder",
+    "extension": null,
+    "children": [
+      {
+        "name": "atelier_VMP_na_FU_OSU_2021.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "atelier_VMP_na_FU_OSU_2021_detail.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "jama10_2023.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "jama_10_2023_2.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "jama_10_2023_3.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "readme.md",
+        "type": "document",
+        "extension": ".md"
+      },
+      {
+        "name": "snimek_obrazovky_satelit_ISS_2021-06-15.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      },
+      {
+        "name": "snimek_obrazovky_satelity_aqua_a_terra_2021-06-09.jpg",
+        "type": "image",
+        "extension": ".jpg"
+      }
+    ]
+  },
+  {
+    "name": "autoportret.jpg",
+    "type": "image",
+    "extension": ".jpg"
+  },
+  {
+    "name": "structure.json",
+    "type": "file",
+    "extension": ".json"
+  }
+]
