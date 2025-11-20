@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <script type="text/javascript">
+      // Redirect all SPA routes to index.html
+      var pathSegmentsToKeep = 0;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + '/' + l.pathname.split('/').slice(pathSegmentsToKeep).join('/')
+      );
+    </script>
+  </head>
+  <body></body>
+</html>
