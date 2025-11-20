@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex, nofollow" />
     <title>Michal Konvička</title>
+    <script>
+      (function() {
+        var l = window.location;
+        // check if url should be restored
+        if (l.search && l.search.startsWith('?/')) {
+          var newPath = l.search.slice(2).split('&')[0];
+          window.history.replaceState(null, null, newPath + l.hash);
+        }
+      })();
+    </script>
     <script type="module" crossorigin src="/assets/index-dEVD4qFQ.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-unszxdeJ.css">
   </head>
